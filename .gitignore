@@ -7,5 +7,5 @@ data/
 /reinforcement_learning/deep_q_learning/.venv
 /supervised_learning
 /reinforcement_learning
-/pipeline/apis
+# /pipeline/apis
 # /pipeline/databases
